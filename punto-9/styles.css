@@ -1,0 +1,18 @@
+table {
+    margin: 5px 250px;
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 65%;
+    border: 1px dotted;
+    border-bottom: 1px dashed red;
+
+    background-color: yellow;
+}
+tr{
+border: 1px dotted black ;
+}
+th{
+    width: 30%;
+    font-style: italic;
+}
+ 
