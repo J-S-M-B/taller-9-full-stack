@@ -1,0 +1,16 @@
+a{
+    color: yellow;
+    font-size: 35px;
+}
+
+a[href^="https://us.as.com/"]{
+    color: purple;
+    font-size: 35px;
+}
+
+body{
+    text-align: justify;
+    margin: 0 auto;
+    width: 350px;
+    font-weight: bold;
+}
