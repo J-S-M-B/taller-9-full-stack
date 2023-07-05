@@ -7,6 +7,9 @@
 <h2>Punto 1: Link de Figma</h2>
 <a href="https://www.figma.com/file/6fQ7hspu0DVkKkTWozpPzy/Juan-Mosquera---Figma-Excercise-(Copy)?type=design&t=fq8biszIKdYhgb1v-1"target="_blank">Link de Figma</a>
 
+<h2>Punto 1: Pagina Web</h2>
+<a href="https://j-s-m-b.github.io/taller-9-full-stack/"target="_blank">Link de Figma</a>
+
 <h2>Punto 2: HTML</h2>
 <img src="./public/images/html.png" alt="html">
 
