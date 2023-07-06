@@ -15,3 +15,18 @@
 
 <h2>Punto 3: CSS</h2>
 <img src="./public/images/PAGINA%20F.png" alt="css">
+
+<h2>Punto 4: HTML y CSS</h2>
+<img src="./public/images/Punto%204.png" alt="html">
+
+<h2>Punto 5: HTML y CSS</h2>
+<img src="./public/images/Punto%205.png" alt="css">
+
+<h2>Punto 6: HTML y CSS</h2>
+<img src="./public/images/Punto%206.png" alt="html">
+
+<h2>Punto 7-8: HTML y CSS</h2>
+<img src="./public/images/Punto%207-8.png" alt="css">
+
+<h2>Punto 9: HTML y CSS</h2>
+<img src="./public/images/Punto%209.png" alt="html">
